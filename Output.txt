@@ -1,0 +1,8 @@
+char c;
+FILE *writee;
+ writee = fopen("Output.txt","w");
+ while((c=getc(readd))!=EOF)*/
+ {
+   printf("Se ha creado un .txt llamado ComentariosBorrados");
+   return 0;
+}
